@@ -66,7 +66,7 @@ h4 {
 }
 
 .jon .image-container {
-    background-image: url("https://github.com/Landmeinz/testimonials/blob/c061547c4f853cfc90272440c862c47f119e38a8/image-jonathan.jpg");
+    background-image: url(./image-jonathan.jpg);
     background-repeat: none;
     border-radius: 50%;
     width: 50px;
@@ -76,7 +76,7 @@ h4 {
 }
 
 .jeanette .image-container {
-    background-image: url(/Users/Eric/Documents/testimonials-grid-section-main/images/image-jeanette.jpg);
+    background-image: url(./image-jeanette.jpg);
     background-repeat: none;
     border-radius: 50%;
     width: 50px;
@@ -86,7 +86,7 @@ h4 {
 }
 
 .patrick .image-container {
-    background-image: url(/Users/Eric/Documents/testimonials-grid-section-main/images/image-patrick.jpg);
+    background-image: url(./image-patrick.jpg);
     background-repeat: none;
     border-radius: 50%;
     width: 50px;
@@ -96,7 +96,7 @@ h4 {
 }
 
 .kira .image-container {
-    background-image: url(/Users/Eric/Documents/testimonials-grid-section-main/images/image-kira.jpg);
+    background-image: url(./image-kira.jpg);
     background-repeat: none;
     border-radius: 50%;
     width: 50px;
